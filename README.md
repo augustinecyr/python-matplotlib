@@ -11,4 +11,8 @@
 - Figure Size & DPI
 - Saving images of figures
 
+#### Part 3
+- Plot Appearances e.g. colors, linewidth, linestyle
+- Plot range
+
 
